@@ -1,0 +1,13 @@
+{
+  "name": "mint-test",
+  "application": {
+    "head": "assets/head.html",
+    "title": "mint-test"
+  },
+  "source-directories": [
+    "source"
+  ],
+  "test-directories": [
+    "tests"
+  ]
+}
